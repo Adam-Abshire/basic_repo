@@ -3,3 +3,9 @@
     margin: 0;
     font-family: sans-serif;
 }
+ul {
+    list-style-type: none;
+}
+ul > li {
+    background-color: aqua;
+}
